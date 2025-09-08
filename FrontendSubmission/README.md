@@ -28,3 +28,5 @@ VITE_EVAL_TOKEN=your_token_here
    \`\`\`
    http://localhost:3000
    \`\`\`
+   UI Output <img width="1235" height="886" alt="image" src="https://github.com/user-attachments/assets/b7863a2c-38a3-4615-aa05-06975cbdf4db" />
+
